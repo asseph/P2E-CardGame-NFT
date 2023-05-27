@@ -1,0 +1,9 @@
+.greenGradient {
+	background: radial-gradient(
+		191.08% 125.83% at 26.69% 10%,
+		#56fffa 2.08%,
+		#00dfd9 26.92%,
+		#00d0cb 46.85%,
+		#00c278 91.62%
+	);
+}
